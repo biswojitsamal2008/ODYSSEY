@@ -1,0 +1,6 @@
+{
+  "name": "MARS-09",
+  "description": "Autonomous Mars Rover Intelligence System — Mission ODYSSEY-001 interactive 3D terrain simulation, A* pathfinding, and hazard challenge lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
