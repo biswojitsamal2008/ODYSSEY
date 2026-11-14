@@ -1,4 +1,4 @@
-# 🚀 MarsNavig
+# 🚀 ODYSSEY
 
 ### EXPLORE BEYOND LIMITS.
 
